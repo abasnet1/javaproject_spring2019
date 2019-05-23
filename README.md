@@ -1,1 +1,2 @@
 # javaproject_spring2019
+As of 05/23/2019, this repository has the latest versions of Java files and the newest coincide app. If a new user download this folder into his/her personal computer or the lab computer, he/she should be aware of the fact that a new launch configuration will need to be created because the workspace will be different. One can go to this link to read more on that: https://help.eclipse.org/kepler/index.jsp?topic=%2Forg.eclipse.jdt.doc.user%2Ftasks%2Ftasks-java-local-configuration.htm
